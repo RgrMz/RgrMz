@@ -4,6 +4,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=RgrMz alt=RgrMz /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=RgrMz&show_icons=true&include_all_commits=true)](https://github.com/RgrMz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RgrMz&layout=compact)](https://github.com/RgrMz/github-readme-stats)
+![RgrMz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RgrMz&show_icons=true&theme=onedark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RgrMz&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
